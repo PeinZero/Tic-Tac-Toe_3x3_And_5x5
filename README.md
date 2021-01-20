@@ -1,2 +1,11 @@
-# Tic-Tac-Toe_3x3_And_5x5
-A project made by me when I started learning C/C++. This project is a 3x3 and 5x5 Tic Tac Toe game made in C.
+# Tic-Tac-Toe 3x3|5x5
+
+###This Project is built in programming language C and run on CLI.
+
+On running the .c file, a menu is displayed allowing the user to either play 3x3 game or 5x5. 
+
+Features:
+- Re-Playable with score with player maintained till the application is closed.
+- Timer: Basically each player has 10 seconds to fill the position on the board.
+
+
